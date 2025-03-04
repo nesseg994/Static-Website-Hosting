@@ -53,6 +53,22 @@ Configured Route 53 Alias Records to point the domain to the S3 bucket.
 - Verified DNS setup with `nslookup` and `whatsmydns`.  
 - Tested the site to ensure proper redirects, HTTPS enforcement, and content loading.
 
+## 📸 Results  
+
+Here are some screenshots of the deployed website and testing results:  
+
+### Website Screenshot  
+![Deployed Website](screenshots/Keanu.png)
+*The static website hosted on AWS S3 and delivered via CloudFront.*  
+
+### DNS Propagation Check  
+![DNS Check](screenshots/DNS_Propagation_Check.png)  
+*Verified DNS propagation using `whatsmydns`.*  
+
+### HTTPS Enforcement  
+![HTTPS Check](screenshots/HTTPS_Check.png)  
+*The website is securely served over HTTPS.*  
+
 ## 📂 Repo  
 The project repo includes the architecture diagram and configuration details.
 
