@@ -1,5 +1,3 @@
-![Architecture](screenshots/Static_Website_Hosting.png)
----
 # 🚀 Static Website Hosting on AWS  
 **Based on cloudisfree.com**  
 
@@ -10,6 +8,7 @@ This project walks through hosting a static HTML website on AWS using S3, Route 
 ## 🏗 Architecture  
 
 A detailed architecture diagram is available in the project repo for reference.
+![Architecture](screenshots/Static_Website_Hosting.png)
 
 ## 🛠 Tools Used  
 
