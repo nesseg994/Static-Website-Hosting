@@ -1,4 +1,4 @@
-![Architecture](Static Website Hosting.png)
+![Architecture](Static_Website_Hosting.png)
 ---
 # Static Website Hosting on AWS
 **Based on cloudisfree.com**  
